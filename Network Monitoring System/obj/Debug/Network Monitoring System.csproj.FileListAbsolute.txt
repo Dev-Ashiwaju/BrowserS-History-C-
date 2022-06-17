@@ -1,0 +1,22 @@
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\Network Monitoring System.exe.config
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\Network Monitoring System.exe
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\Network Monitoring System.pdb
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\EntityFramework.dll
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\Guna.UI2.dll
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\System.Data.SQLite.dll
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\EntityFramework.xml
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\bin\Debug\System.Data.SQLite.xml
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network Monitoring System.csprojAssemblyReference.cache
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network_Monitoring_System.Properties.Resources.resources
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network Monitoring System.csproj.GenerateResource.cache
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network Monitoring System.csproj.CoreCompileInputs.cache
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network Monitoring System.csproj.CopyComplete
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network Monitoring System.exe
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network Monitoring System.pdb
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network_Monitoring_System.frmMonitoring.resources
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network_Monitoring_System.frmSplash.resources
+C:\Users\yinka\OneDrive\Documents\2021 Report\2021-2022 project\Network Monitoring System\Network Monitoring System\Network Monitoring System\obj\Debug\Network_Monitoring_System.frmLogin.resources
